@@ -10,27 +10,32 @@ npm init --y
 npm install --save express
 ```
 
-3. Libary Sequelize
+3. Inisiasi Perintah sequelize, <i>-g dilakukan hanya sekali di komputer masing masing</i>
+```
+npm install -g sequelize-cli
+```
+
+4. Libary pendukung Sequelize
 ```
 npm install --save sequelize mysql2
 ```
 
-4. md5, untuk password
+5. md5, untuk password
 ```
 npm install --save md5
 ```
 
-5. Untuk token
+6. Untuk token
 ```
 npm install jsonwebtoken
 ```
 
-6. Untuk file (image)
+7. Untuk file (image)
 ```
 npm install --save multer
 ```
 
-7. Untuk validasi
+8. Untuk validasi
 ```
 npm install --save express-validator
 ```
