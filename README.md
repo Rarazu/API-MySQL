@@ -29,3 +29,8 @@ npm install jsonwebtoken
 ```
 npm install --save multer
 ```
+
+7. Untuk validasi
+```
+npm install --save express-validator
+```
