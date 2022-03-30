@@ -39,3 +39,8 @@ npm install --save multer
 ```
 npm install --save express-validator
 ```
+
+9. Menyembungkan port antara backend dan frontend
+```
+npm install cors
+```
